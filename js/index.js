@@ -13,3 +13,9 @@ navLinks.forEach(function (link) {
   });
 
 });
+
+// PRELOADER EFFECT
+const preloader = document.querySelector(".preloader");
+window.addEventListener("load", function() {
+    preloader.classList.add("hide-preloader");
+});
