@@ -18,14 +18,24 @@
 <img style="margin-top:20px" src="website pics/website%20pics%20(12).jpeg">
 <img style="margin-top:20px" src="website pics/website%20pics%20(11).jpeg">
 <div>
+ 
+ 
+<h2 style="margin-top:20px">Quick Start</h2>
+<p>Fork the repository - https://github.com/abhishekrajput-web/my-blog-site.git<p>
+
 
 <h2 style="color:white;margin-top:20px">Credit For Images and Pics<h2>
 
 <div>
 <li>Stock images and background images - <b>pexel.com and pixaby.com<b></li>
-<div>
+</div>
 
-
+<h2 style="color:white;margin-top:20px">Author Info<h2>
+ <div style="font-size:16px;">
+ <p>Author Name - Abhsihek Rajput</p>
+ <p>Author Email -abhishekrajputcr7@gmail.com</p>
+ <p>Author Linkedin  -<a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">linkedin Profile</a></p>
+  
 <h2 style="margin-top:20px">Full Website Seen</h2>
 <div>
 <img style="margin-top:20px" src="website pics/website%20pics%20(15).jpeg">
