@@ -30,12 +30,11 @@
 <li>Stock images and background images - <b>pexel.com and pixaby.com<b></li>
 </div>
 
-<h2 style="color:white;margin-top:20px">Author Info<h2>
- <div style="font-size:16px;">
- <p>Author Name - Abhsihek Rajput</p>
- <p>Author Email -abhishekrajputcr7@gmail.com</p>
- <p>Author Linkedin  -<a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">linkedin Profile</a></p>
-  
+<h2 style="margin-top:20px">Author Info</h2>
+<p>Author Name - Abhishek Rajput<p>
+<p>Author Email - abhishekrajputcr7@gmail.com<p>
+<p>Author Linkedin - <a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">Linkedin Profile</a><p>
+ 
 <h2 style="margin-top:20px">Full Website Seen</h2>
 <div>
 <img style="margin-top:20px" src="website pics/website%20pics%20(15).jpeg">
